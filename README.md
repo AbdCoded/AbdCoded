@@ -1,7 +1,4 @@
-![alt text](https://github.com/AbdCoded/draft/blob/main/linkedin.png?raw=true)
-
-Muhammad Abdullah Naeem
------------------------
+![alt text](https://github.com/AbdCoded/draft/blob/main/banner.jpg?raw=true)
 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [linkedin](http://https://www.linkedin.com/in/abdullahnaeem-/)
