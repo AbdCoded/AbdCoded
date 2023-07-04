@@ -1,8 +1,5 @@
 ![alt text](https://github.com/AbdCoded/draft/blob/main/banner.jpg?raw=true)
-
-* 🌍  I'm based in Lahore
-* 🖥️  See my portfolio at [linkedin](http://https://www.linkedin.com/in/abdullahnaeem-/)
-* ✉️  You can contact me at [abdullahnaeem175@gmail.com](mailto:abdullahnaeem175@gmail.com)
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Skills
 
